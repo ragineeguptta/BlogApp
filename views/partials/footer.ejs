@@ -1,0 +1,5 @@
+<footer>
+    <p>&copy; 2025 My Blog</p>
+</footer>
+</body>
+</html>
